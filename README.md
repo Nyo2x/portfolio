@@ -8,7 +8,7 @@ Bachelor of Science in Information Technology - STI College Ortigas-Cainta _(Jul
 - Google Cybersecurity Professional Certificate - Coursera 
 - CCNA: Introduction to Networks - Cisco
 - Introduction to Cybersecurity - Cisco
-  
+
 #### Skills
 - Software and Computer Troubleshooting
 - C#
