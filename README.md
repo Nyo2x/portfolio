@@ -16,3 +16,8 @@ Lost Technician - Capstone Game _(2023)_
 challenges.
 - Aimed to teach beginners about computer parts, basic troubleshooting, and tech-related
 terms in an interactive format.
+
+#### Work Experience
+Security Coordinator Intern - ValleyGolf & CountryClub Inc _(February 2025 - June 2025)_
+Sales Representative - Trust Trade Gun and Ammunition _(September 2024 - December 2024)_
+
