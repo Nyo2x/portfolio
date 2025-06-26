@@ -1,4 +1,4 @@
-# Aspiring Software Engineer / IT Graduate
+# Aspiring Software Engineer | Cybersecurity / IT Graduate
 I build software and love solving problems with code.
 
 #### About Me
