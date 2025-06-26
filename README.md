@@ -1,10 +1,7 @@
 # Aspiring Software Engineer / IT Graduate
 ### I build software and love solving problems with code.
 
----
 
-
-___
 
 # About Me
 ## Education
