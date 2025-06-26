@@ -30,4 +30,4 @@ terms in an interactive format.
 - Security Coordinator Intern - ValleyGolf & CountryClub Inc _(February 2025 - June 2025)_
 - Sales Representative - Trust Trade Gun and Ammunition _(September 2024 - December 2024)_
 
-(asset/img/printimg.png) asset/img/printimg.png
+ ![Image Alt](asset/img/printimg.png ) 
